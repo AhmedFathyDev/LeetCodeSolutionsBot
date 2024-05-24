@@ -1,0 +1,16 @@
+
+*.user
+*.code-workspace
+
+*.db*
+*.sqlite*
+*.Development*
+
+*vs/
+*bin/
+*lib/
+*obj/
+*out/
+*idea/
+*vscode/
+*config/
